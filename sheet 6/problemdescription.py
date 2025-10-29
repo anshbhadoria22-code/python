@@ -1,0 +1,1 @@
+#given an array A of N non-negative numbers and a non-negative number B, you need to find the number of subarrays 
